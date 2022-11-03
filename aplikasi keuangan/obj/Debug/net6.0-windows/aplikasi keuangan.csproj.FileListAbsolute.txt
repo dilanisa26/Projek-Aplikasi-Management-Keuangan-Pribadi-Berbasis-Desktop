@@ -1,0 +1,17 @@
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\bin\Debug\net6.0-windows\aplikasi keuangan.exe
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\bin\Debug\net6.0-windows\aplikasi keuangan.deps.json
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\bin\Debug\net6.0-windows\aplikasi keuangan.runtimeconfig.json
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\bin\Debug\net6.0-windows\aplikasi keuangan.dll
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\bin\Debug\net6.0-windows\aplikasi keuangan.pdb
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi keuangan.csproj.AssemblyReference.cache
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi_keuangan.Form1.resources
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi keuangan.csproj.GenerateResource.cache
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi keuangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi keuangan.AssemblyInfoInputs.cache
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi keuangan.AssemblyInfo.cs
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi keuangan.csproj.CoreCompileInputs.cache
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi keuangan.dll
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\refint\aplikasi keuangan.dll
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi keuangan.pdb
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\aplikasi keuangan.genruntimeconfig.cache
+C:\Users\user x\source\repos\aplikasi keuangan\aplikasi keuangan\obj\Debug\net6.0-windows\ref\aplikasi keuangan.dll
